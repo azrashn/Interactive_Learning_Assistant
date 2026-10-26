@@ -1,1 +1,1 @@
-# Interactive_Learning_Assistant
+# Interactive Learning Assistant
